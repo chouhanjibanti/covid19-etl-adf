@@ -1,0 +1,15 @@
+{
+	"name": "adf-covid19-demo1",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5aedc929-3e60-4b2d-bd05-4205b7972a43",
+		"tenantId": "075b7fb2-8f88-413c-919b-9faa8b2d04c6"
+	}
+}
